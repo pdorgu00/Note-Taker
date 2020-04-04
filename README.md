@@ -8,4 +8,8 @@ On page you can view existing notes or delete a note by clicking the trash icon.
 To add a new note by clicking the pen icon in the upper right corner.
 
 
+Technologies Used This project utilizes Javascript, Node.js, HTML, Css,express 
+
+Installation Begin by cloning this repository, run NPM INSTALL in the root of the directory. You can then run Node Server.js and navigate to localhost:3000
+
 
