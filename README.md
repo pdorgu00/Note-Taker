@@ -12,4 +12,4 @@ Technologies Used This project utilizes Javascript, Node.js, HTML, Css,express
 
 Installation Begin by cloning this repository, run NPM INSTALL in the root of the directory. You can then run Node Server.js and navigate to localhost:3000
 
-
+![Notetaker](https://user-images.githubusercontent.com/56213571/78422593-5da6b100-762e-11ea-8992-0f11ec3e2d1d.png)
