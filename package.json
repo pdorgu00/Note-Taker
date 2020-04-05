@@ -13,6 +13,8 @@
     "mysql": "^2.16.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "heroku-prebuild": "echo This runs before Heroku installs your dependencies.",
+  "heroku-postbuild": "echo This runs afterwards."
   }
 }
